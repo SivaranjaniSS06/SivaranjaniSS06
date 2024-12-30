@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a **3rd-year Computer Science Engineering stud
 ---
 
 ## 📈 GitHub Stats  
-(https://github-readme-stats.vercel.app/api?username=SivaranjaniSS06&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaranjaniSS06&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaranjaniSS06&layout=compact&theme=radical)  
 
 ---
